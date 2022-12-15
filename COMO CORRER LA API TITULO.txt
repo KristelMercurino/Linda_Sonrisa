@@ -1,0 +1,69 @@
+PARA EJECUTAR LA API:
+
+En la carpeta del proyecto, en la dirección pongo CMD
+se abre la consola.
+
+code .
+para que se abra el proyecto.
+
+Abro dos terminales en visual studio.
+
+Debe estar adentro de la carpeta cd .\flask_payment\
+Rodrigo debe hacer el read me debajo del .env y ejecutar para que corra la api.
+
+python -m venv env Aqui se crea la carpeta que crea el entorno virtual
+y luego se ejecuta env\Scripts\activate
+
+y luego pip install -r requirements.txt
+
+Con esto se instalaron los paquetes necesarios.
+
+PARA CORRRERLO en terminal:
+python src/main.py
+
+Si ya se creó el entorno virtual anteriormente , solo se activa y ejecuta el script:
+env\Scripts\activate
+python src/main.py
+
+ESTO ES PARA CORRER EL BACKEND
+
+AHORA EL FRONT -->python app.py
+
+
+CMD --> code .
+En el terminal 1 en visual --> 
+cd .\flask_payment\
+y ahi si --> 
+env\Scripts\activate
+python src/main.py
+
+ABRO OTRO TERMINAL
+Y meterme en carpeta cd .\LINDA_SONRISA\
+o cd y tab .
+
+
+
+Si no se actualiza el cambio del css con la api corriendo podria ser por falta de actualizacion
+actualizar servidor: control + shift + r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
